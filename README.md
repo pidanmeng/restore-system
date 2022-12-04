@@ -60,6 +60,8 @@
 
 ### 编辑器
 
+- 微软商店下载Terminal
+  - 打开powershell运行命令```set-executionpolicy remotesigned```
 - 下载[VSCode](https://code.visualstudio.com/)
   - 登录 同步设置
 - clone [dotfiles](https://github.com/pidanmeng/dotfiles)
