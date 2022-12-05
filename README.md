@@ -11,6 +11,7 @@
 - [weChat](https://weixin.qq.com/)
 - [搜狗输入法](https://shurufa.sogou.com/)
   - 设置小鹤双拼
+- [Everything](https://www.voidtools.com/zh-cn/)
 
 ## 学习
 
