@@ -13,6 +13,8 @@
   - 设置小鹤双拼
   - 关闭中英文标点切换快捷键
 - [Everything](https://www.voidtools.com/zh-cn/)
+- [telegram](https://github.com/telegramdesktop/tdesktop/releases)
+  - [设置中文](https://t.me/setlanguage/zh-hans-beta)
 
 ## 学习
 
